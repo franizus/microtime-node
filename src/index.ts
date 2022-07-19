@@ -1,1 +1,1 @@
-export {now} from './microtime'
+export {Microtime} from './microtime'
