@@ -1,0 +1,32 @@
+{
+  "name": "microtime-node",
+  "version": "1.0.0",
+  "description": "Get microtime.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franizus/microtime-node.git"
+  },
+  "keywords": [
+    "microtime"
+  ],
+  "author": "franizus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franizus/microtime-node/issues"
+  },
+  "homepage": "https://github.com/franizus/microtime-node#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6",
+    "typescript": "^4.7.4"
+  }
+}
